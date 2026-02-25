@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pypdf
+sqlalchemy
+psycopg[binary]
+pgvector
+langchain
+langchain-google-genai
+langchain-text-splitters
+langgraph
+langsmith
+rouge-score
